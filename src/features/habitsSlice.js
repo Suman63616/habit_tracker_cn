@@ -13,7 +13,7 @@ export const details = [
 // load habits from local storage if there are any
 const habitsFromStorage = localStorage.getItem("newHabits")
   ? JSON.parse(localStorage.getItem("newHabits"))
-  : [{ title: "Wake Up", description: "wake up at 3:45am", details }];
+  : [];
 
 let habits = [...habitsFromStorage];
 

@@ -2,7 +2,7 @@
 React app to start tracking habits for next seven days. we can add, delete and change status of each habit for a day. All habits are stored in localStorage so no worries about getting habits lost. Implement state using redux-toolkit and styled components using react-bootstrap. And always no login/signup to keep simple and quick enough.
 
 ## Hosted Link:
-https://sadaab2784-habit-tracker.netlify.app/
+https://habit-cn.onrender.com
 
 ![Loop-Habit-Tracker (2)](https://user-images.githubusercontent.com/106314415/201147211-92c9d68d-f99a-4113-8d61-a901c273d3a1.png)
 
